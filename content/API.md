@@ -3,3 +3,6 @@ http://docs.aws.amazon.com/lambda/latest/dg/with-on-demand-https.html
 
 API Gateway Getting Started Guide:
 http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
+
+Chalice Info for Python Rest APIs:
+https://chalice.readthedocs.io/en/latest/quickstart.html
